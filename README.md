@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Merih 👋
+I build practical developer tools and systems-focused software.
+My main interests are Zero-Knowledge Machine Learning,
+Server/DevOps Automation, Local LLM Benchmarking and Agentic Transactions.
 
-<!--
-**bmmaral/bmmaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current public project is [GitTriage](https://github.com/bmmaral/gittriage).
+GitTriage is a local-first Rust CLI for scanning, scoring, and organizing
+messy collections of local/remote repositories. 
+It is built for repo cleanup, visibility, and keeping what matters.
+This is my first open-source CLI tool.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More public work in ZKML and automation is in progress.
+Most repos here reflect what I am actively building.
